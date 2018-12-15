@@ -1,0 +1,13 @@
+#commands
+
+#git status (on branch master)
+
+#git add .
+
+#git commit -m "input"
+
+#git push
+
+#username:
+
+#password: 
